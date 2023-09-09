@@ -1,16 +1,8 @@
-# animation_tutorial
+# Flutter Magic Wand
 
-A new Flutter project.
+A Simple Stack with 3 images that would start blur and opacity animation once magic wand pass on top of them.
 
-## Getting Started
+## Preview
 
-This project is a starting point for a Flutter application.
+https://github.com/ElG0hary/Flutter_Magic_Wand/assets/85020587/d130fb40-1bb5-462b-88f1-76cbde4fc360
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
